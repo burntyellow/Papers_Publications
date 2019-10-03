@@ -1,5 +1,5 @@
 # HARC19 Workshop Presentations
-(presented in order given at the workshop)
+(Presented in the order given at the workshop)
 
 - Voss, Brian. 2019. Humanware: The Critical Importance of People In Cyberinfrastructure (and the Cloud). Presented at HARC'19: Humans in the Loop: Enabling and Facilitating Research on Cloud Computing, Workshop at PEARC'19, 29 July 2019, Chicago, IL. [Download](http://hdl.handle.net/2022/24439)
 
