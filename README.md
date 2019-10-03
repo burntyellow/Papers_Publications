@@ -1,7 +1,9 @@
 # Papers and Publications
 Papers and publications regarding the IU Humanware Project
 ## Contents
-[HARC19 Workshop Table of Contents at the ACM DL](https://dl.acm.org/citation.cfm?id=3355738&picked=prox)
+[HARC19 Workshop Proceedings - Table of Contents at the ACM DL](https://dl.acm.org/citation.cfm?id=3355738&picked=prox)
+
+[HARC19 Workshop Presentations](HARC19_Presentations.md)
 
 Related Papers on ROI in Cyberinfrastructure
 
